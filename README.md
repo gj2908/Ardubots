@@ -1,4 +1,4 @@
-# 🤖 Ardubots – Environmental Monitoring Bot (LoRaWAN-Enabled)
+# 🤖 Ardubots – EcoLink (Environmental Monitoring Bot, LoRaWAN-Enabled)
 
 A smart Arduino-based environmental monitoring bot that detects **smoke**, measures **temperature**, and calculates **PM2.5 dust density**, with **LoRaWAN** communication for long-range, low-power data transmission. Also supports **Bluetooth debugging** and a **buzzer alarm** for local alerts. Built for Hackathons, rapid IoT prototyping, and real-world deployment in smart cities, agriculture, and industry.
 
