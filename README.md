@@ -13,7 +13,7 @@ A smart Arduino-based environmental monitoring bot that detects **smoke**, measu
 - 🌐 Compatible with **The Things Network (TTN)**  
 - 🔊 **Buzzer Alert** for smoke events  
 - 📲 Optional **Bluetooth Debugging** via HC-05/HC-06  
-- 🖥️ **Serial Monitoring** for live feedback  
+- 🖥️ **Serial Monitoring** for live feedback 
 
 ---
 
