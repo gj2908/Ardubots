@@ -35,7 +35,7 @@ A smart Arduino-based environmental monitoring bot that detects **smoke**, measu
 
 ## ⚡ Circuit Diagram
 
-Ardubots/Circuit Diagram.png
+'Ardubots/Circuit Diagram.png'
 
 **Wiring Highlights:**
 
